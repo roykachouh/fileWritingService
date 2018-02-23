@@ -1,0 +1,1 @@
+# A dead simple go restful service, tutorial from https://thenewstack.io/make-a-restful-json-api-go/
